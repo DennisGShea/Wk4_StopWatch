@@ -1,9 +1,7 @@
-
-
 footer {
     background-color: lightgreen;
     border: 5px solid green;
-    padding: 40px;
+    padding: 20px;
 }
 #p1 {
     background-color: lightblue;
@@ -11,7 +9,13 @@ footer {
     padding: 40px;
 }
 .first-paragraph {
-    color: blue;
+    color: rgb(251, 0, 255);
+    font-weight: 500;
+}
+ß
+.stop_but_style {
+    color: rgb(164, 146, 10);
+    font-weight: 200;
 }
 
 h1 {

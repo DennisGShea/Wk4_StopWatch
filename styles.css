@@ -1,0 +1,30 @@
+
+
+footer {
+    background-color: lightgreen;
+    border: 5px solid green;
+    padding: 40px;
+}
+#p1 {
+    background-color: lightblue;
+    border: 5px solid blue;
+    padding: 40px;
+}
+.first-paragraph {
+    color: blue;
+}
+
+h1 {
+    color: red;
+    font-weight: 500;
+}
+
+p {
+    color: black;
+    padding: 32px;
+    background-color: white;
+    border: 3px dashed black;
+    font-size: 24px;
+}
+
+
